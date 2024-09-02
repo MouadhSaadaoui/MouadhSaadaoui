@@ -1,7 +1,5 @@
 
-### 
-#### 
-![](https://github.com/MouadhSaadaoui/MouadhSaadaoui/blob/main/devops.jpeg)
+
 
 
 
